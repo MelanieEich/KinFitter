@@ -1,3 +1,4 @@
+# KinFitter
 Package of the kinematic fitting tool KinFitter
 
 How the package can be used is more precisely described in the thesis "Kinematic fits in ttbar resonance searches" by Melanie Eich. 
